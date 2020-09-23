@@ -7,7 +7,7 @@ I'm David, but everybody calls me **Bubu**, I'm a _Physics undergraduate student
 - 🤔 I’m looking for help with Quantum Computing
 - 💬 Ask me about Challenge, competitions and weird stuff.
 - 📫 Here's my email david.pedroza.segoviano@gmail.com
-- ⚡ Fun fact: I really love sports and puppies, specially volleyball.
+- ⚡ Fun fact: I really love sports and puppies, specially volleyball 🏐.
 - I'm an active member at:
   - :rocket: [Future Lab](http://futurelab.mx/)
   - 🔭 GOLF (Organized Group of Physics Undergrads)
