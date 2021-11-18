@@ -1,6 +1,6 @@
 ### **Hellouda! :shipit:**
 
-I'm David, but everybody calls me **Bubu**, I'm *Physics undergraduate student* 🎒 at University of Guanajuato, future Full Stack Developer and Machine Learning Engineer, a little bit of me:
+I'm David, but everybody calls me **Bubu**, I'm *Physics undergraduate student* 🎒 at University of Guanajuato, future Software Developer and Machine Learning Engineer, a little bit of me:
 
 - 🐍 I love Python and 💛 JavaScript.
 - 👨🏽‍💻 I’m learning about Web Developing and Machine Learning.
