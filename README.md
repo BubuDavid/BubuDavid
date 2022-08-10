@@ -11,5 +11,4 @@ I'm David, but everybody calls me **Bubu**, I'm *Physics undergraduate student*
     - 🚀 [Future Lab](http://futurelab.mx/)
     - 🚩 [GitHub Campus Expert Program](https://education.github.com/experts)
     - 🔭 [GOLF (Organized Group of Physics Undergrads)](https://www.facebook.com/golf.fisica/)
-    - 💻 [Google Developer Student Club UG](https://gdsc.community.dev/university-of-guanajuato/)
 - 🛠️ [WIP] Django, Flask, React, TensorFlow, …
